@@ -1,0 +1,14 @@
+/* *{
+    color:pink
+} */
+p  {
+    font-size: 36px;
+}
+header {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+  background: url(../images/周平平.JPG) no-repeat;
+  background-size: 100% 100%;
+}
+
