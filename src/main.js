@@ -9,3 +9,5 @@ $(function(){
 }) 
 
 const fn = ()=>{ console.log('zpp');}
+
+fn()
